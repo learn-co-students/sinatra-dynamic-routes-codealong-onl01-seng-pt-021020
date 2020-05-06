@@ -12,4 +12,5 @@ group :test, :development do
   gem 'capybara'
   gem 'rack-test'
   gem 'pry'
+  gem 'rack', '~> 2.0', '>= 2.0.8'
 end
